@@ -1,0 +1,32 @@
+.short-linknator {
+    padding: 15px;
+    margin: 15px 0;
+    text-align: center;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.short-linknator p {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 14px;
+    margin: 0 0 10px;
+}
+
+.short-linknator-copy-btn {
+    background-color: #0066FF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.short-linknator-copy-btn:hover {
+    background-color: #FFC300;
+    color: #000;
+}
